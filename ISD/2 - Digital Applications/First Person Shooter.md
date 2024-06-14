@@ -28,6 +28,7 @@
 ### Practical
 - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
 - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
+- [ ] [Watch Star Wars](disneyplus.com)
 
 
 
