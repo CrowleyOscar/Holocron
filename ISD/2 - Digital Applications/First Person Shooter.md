@@ -19,11 +19,11 @@
 
 ### Class Tasks
 
-- [ ] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
+- [x] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
 
 ### Theory
-- [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
-- [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
+- [x] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
+- [x] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
 
 ### Practical
 - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
