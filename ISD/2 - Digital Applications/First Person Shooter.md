@@ -1,3 +1,8 @@
+---
+tags:
+  - S2
+  - DigitalTechnologies/DigitalApplications
+---
 > [!info]- Project Overview
 > Welcome to this tutorial on building a First-Person Shooter (FPS) game using Godot
 >   This tutorial is designed to guide you through the process of creating an FPS game from scratch, providing step-by-step instructions and explanations along the way.  
@@ -14,72 +19,188 @@
 
 # Subject Schedule
 
-## Week 1
-![[semesterCalendarS2#1]]
+## Term 3
 
-### Class Tasks
+> [!info]- Week 1
+> ![[semesterCalendarS2#School Events - Week 1]]
+> #### Class Tasks
+> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [ ] [Technical Analysis - First Person Shooters](ISD/2%20-%20Digital%20Applications/_topics/theory/Technical%20Analysis%20-%20First%20Person%20Shooters.md)
+> - [ ] [Project Timeline](ISD/2%20-%20Digital%20Applications/_topics/theory/Project%20Timeline.md)
+> #### Theory
+> - [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
+> - [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
+> - [ ] [Project Context](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Project%20Context.md)
+> #### Practical
+> - [ ] [Accept FPS Assignment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Accept%20FPS%20Assignment.md)
+> - [ ] Open Game in Godot 4.2.2
+> - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
+> - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
 
-- [x] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
+> [!info]- Week 2
+> ![[semesterCalendarS2#School Events - Week 2]] 
+> #### Class Tasks
+> N/A
+> #### Theory
+>- [ ] [[ISD/2 - Digital Applications/_topics/theory/Vectors|Vectors]]
+>- [ ] [State Design Pattern](ISD/2%20-%20Digital%20Applications/_topics/theory/State%20Design%20Pattern.md)
+> #### Practical
+> - [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
+> - [ ] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
 
-### Theory
-- [x] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
-- [x] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
+> [!danger]- Week 3
+> ![[semesterCalendarS2#School Events - Week 3]]
+> **Assessment Week**
+> You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
+> Worth 25%.
+> The task will be posted to Google Classroom, as per normal.
 
-### Practical
-- [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
-- [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
-- [ ] [Watch Star Wars](disneyplus.com)
+> [!info]- Week 4
+> ![[semesterCalendarS2#School Events - Week 4]]
+> #### Class Tasks
+> N/A
+> #### Theory
+> - [ ] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
+> #### Practical
+> - [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy|Enemy]]
+> - [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy Pathfinding|Enemy Pathfinding]]
+> - [ ] Continue Developing your environment.
+
+> [!info]- Week 5
+> ![[semesterCalendarS2#School Events - Week 5]]
+> #### Class Tasks
+> N/A
+> #### Theory
+> - [ ] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
+> #### Practical
+> - [ ] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
+> - [ ] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
+
+> [!info]- Week 6
+> ![[semesterCalendarS2#School Events - Week 6]]
+> #### Class Tasks
+> N/A
+> #### Theory
+> N/A
+> #### Practical
+> - [ ] [Objects Taking Damage](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Objects%20Taking%20Damage.md)
+
+> [!info]- Week 7
+> ![[semesterCalendarS2#School Events - Week 7]]
+> #### Class Tasks
+> N/A
+> #### Theory
+> N/A
+> #### Practical
+> - [ ] [Points](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Points.md)
+
+> [!info]- Week 8
+> ![[semesterCalendarS2#School Events - Week 8]]
+> #### Class Tasks
+> N/A
+> #### Theory
+> N/A
+> #### Practical
+> - [ ] [Win Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Win%20Conditions.md)
+> - [ ] [Lose Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Lose%20Conditions.md)
+
+> [!info]- Week 9
+> ![[semesterCalendarS2#School Events - Week 9]]
+> #### Class Tasks
+> N/A
+> #### Theory
+> N/A
+> #### Practical
+> - [ ] [Player Health](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Player%20Health.md)
+
+> [!info]- Week 10
+> ![[semesterCalendarS2#School Events - Week 10]]
+> #### Class Tasks
+> - [ ] [VET](_sharedContent/VET.md)
+> #### Theory
+> N/A
+> #### Practical
+> N/A
+
+## Term 4
+> [!info]- Week 11
+> ![[semesterCalendarS2#School Events - Week 11]]
+> #### Class Tasks
+> - [ ] Collate resources for assessment
+> - [ ] Assessment Feedback
+> - [ ] Technical Analysis for Assessment
+> #### Theory
+> N/A
+> #### Practical
+> - [ ] Finalise project
+
+> [!danger]- Week 12
+> ![[semesterCalendarS2#School Events - Week 12]]
+> 
+> **Assessment Due**
+> The task will be due Friday 11:59pm.
+> Worth 50%.
+> The task will be posted to Google Classroom, as per normal.
+
+> [!info]- Week 13
+> ![[semesterCalendarS2#School Events - Week 13]]
+> 
+> #### Class Tasks
+> - [ ] [VET](_sharedContent/VET.md)
+> #### Theory
+> N/A
+> #### Practical
+> N/A
+
+> [!info]- Week 14
+> ![[semesterCalendarS2#School Events - Week 14]]
+> #### Class Tasks
+> - [ ] [Interview Preparation](ISD/2%20-%20Digital%20Applications/_topics/theory/Interview%20Preparation.md)
+> #### Theory
+> N/A
+> #### Practical
+> N/A
+
+> [!danger]- Week 15
+> ![[semesterCalendarS2#School Events - Week 15]]
+> 
+> **Assessment Week** 
+> This assessment task is an interview. 
+> You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.
+> Your interview and any documentation you bring to the interview will be assessed.
+> You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
+> Worth 25%.
+> The task will be posted to Google Classroom, as per normal.
+
+> [!info]- Week 16
+> ![[semesterCalendarS2#School Events - Week 16]]
+> 
+> **Catchup Week** for assessments.
+> If you have completed assessment tasks, focus on your VET competencies.
 
 
 
-## Week 2
-![[semesterCalendarS2#1]] 
-
-### Topics
-
-- [ ] [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)
-- [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
-- [ ] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
-
-
-## Week 3
-
-## Week 4
-
-
-
-| Week                       | Theory                                                                          | Practical                                                                                                                                                                                                                      | Class Tasks                                            | Assessment |
-| -------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ---------- |
-| ![[semesterCalendarS2#1]]  | - [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md) <br> - [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)   | - [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md) <br>- [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)          | - [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |
-| ![[semesterCalendarS2#2]]  | [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)         | - [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)<br>- [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) |                                                        |            |
-| ![[semesterCalendarS2#3]]  | [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md) | - [Enemy](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy.md) <br>- [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy%20Pathfinding.md) <br>                                           | Continue Developing your environment.                  |            |
-| ![[semesterCalendarS2#4]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#5]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#6]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#7]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#8]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#9]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#10]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| School Holidays            |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#11]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#12]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#13]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#14]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#15]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#16]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#17]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#18]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#19]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#20]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
 
 # Subject Information
 
 | Unit Outline     | Assessments         |
 | ---------------- | ------------------- |
 | Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 25 % |
-|                  | Assessment 3 - 50 % |
-
+|                  | Assessment 2 - 50 % |
+|                  | Assessment 3 - 25 % |
 
 ![[commonBlocks#Contact Details]]
+
+# VET Competencies
+During the course of this unit, you will be given the opportunity to complete the following VET Competencies:
+
+## ICT30120 Certificate III in Information Technology
+
+| Code      | Competency Title                                                              |      |
+| --------- | ----------------------------------------------------------------------------- | ---- |
+| BSBXCS303 | Securely manage personally identifiable information and workplace information | Core |
+| BSBXTW301 | Work in a team                                                                | Core |
+| ICTPRG302 | Apply introductory programming techniques                                     | Core |
+
+
   

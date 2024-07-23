@@ -1,51 +1,82 @@
-### 1
+---
+tags:
+  - S1
+---
+### School Events - Week 1
 **Monday** - Student Free Day
 **Tuesday** - First Day of Classes
 
-### 2
+### School Events - Week 2
 
+N/A
 
-### 3
+### School Events - Week 3
 
-### 4
+N/A
 
-### 5
-**Tuesday** - Moderation Day
+### School Events - Week 4
 
-### 6
+N/A
 
-### 7
+### School Events - Week 5
 
+N/A
 
-### 8
+### School Events - Week 6
 
+N/A
 
+### School Events - Week 7
 
-### 9
+N/A
 
-### 10
+### School Events - Week 8
 
+N/A
 
+### School Events - Week 9
+**Monday** - Q2 Commences
 
-### 11
+### School Events - Week 10
 
-### 12
+N/A
 
-### 13
+### School Events - Week 11
 
-### 14
+N/A
 
-### 15
+### School Events - Week 12
 
-### 16
+N/A
 
+### School Events - Week 13
 
-### 17
+N/A
 
-### 18
+### School Events - Week 14
 
-### 19
+N/A
 
-### 20
+### School Events - Week 15
 
-### 21
+N/A
+
+### School Events - Week 16
+
+N/A
+
+### School Events - Week 17
+
+N/A
+
+### School Events - Week 18
+
+N/A
+
+### School Events - Week 19
+
+N/A
+
+### School Events - Week 20
+
+N/A

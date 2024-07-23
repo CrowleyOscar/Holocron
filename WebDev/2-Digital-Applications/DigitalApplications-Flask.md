@@ -1,87 +1,244 @@
+---
+tags:
+  - S2
+  - DigitalTechnologies/DigitalApplications
+  - Flask
+---
+> [!note]- Project Overview
+> This semester you will develop A New Homepage (ANH), which will be based in the Flask environment. 
+> This project can be developed either online through GitHub Codespaces, or locally on your device (not a chromebook) with Visual Studio Code & Docker.
+> The class will be delivered in an online / remote mode, meaning that you are responsible for keeping up with the work posted on this page. 
+
 This unit focuses on continuing Flask Website development, in an **online/remote learning environment**. There are no scheduled lessons in the timetable, and it is assumed that students complete the work during the week and submit the necessary items by the end of the week.
 
 > [!warning]- Attendance & Submission of Work
 > The work submitted is a requirement to be deemed to be in attendance for that week. If you do not submit the work, you will not be marked present for the lessons in that week (unless you have contacted the school or teacher with a valid reason).
 
-# Semester Plan
+Submissions are due **11:59pm Friday** each week.
 
-| Week                       | Topic                                                         | Assessment | Notes |
-| -------------------------- | ------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | [Week 1](_topics/Week01.md)  |            |       |
-| ![[semesterCalendarS2#2]]  | [Week 2](_topics/Week02.md)  |            |       |
-| ![[semesterCalendarS2#3]]  | [Week 3](_topics/Week03.md)  |            |       |
-| ![[semesterCalendarS2#4]]  | [Week 4](_topics/Week04.md)  |            |       |
-| ![[semesterCalendarS2#5]]  | [Week 5](_topics/Week05.md)  |            |       |
-| ![[semesterCalendarS2#6]]  | [Week 6](_topics/Week06.md) |            |       |
-| ![[semesterCalendarS2#7]]  | [Week 7](_topics/Week07.md)  |            |       |
-| ![[semesterCalendarS2#8]]  | [Week 8](_topics/Week08.md)  |            |       |
-| ![[semesterCalendarS2#9]]  | [Week 9](_topics/Week09.md) |            |       |
-| ![[semesterCalendarS2#10]] | [Week 10](_topics/Week10.md) |            |       |
-| School Holidays            |                                                               |            |       |
-| ![[semesterCalendarS2#11]] | [Week 11](_topics/Week11.md) |            |       |
-| ![[semesterCalendarS2#12]] | [Week 12](_topics/Week12.md) |            |       |
-| ![[semesterCalendarS2#13]] | [Week 13](_topics/Week13.md) |            |       |
-| ![[semesterCalendarS2#14]] | [Week 14](_topics/Week14.md) |            |       |
-| ![[semesterCalendarS2#15]] | [Week 15](_topics/Week15.md) |            |       |
-| ![[semesterCalendarS2#16]] | [Week 16](_topics/Week16.md) |            |       |
-| ![[semesterCalendarS2#17]] | [Week 17](_topics/Week17.md) |            |       |
-| ![[semesterCalendarS2#18]] | [Week 18](_topics/Week18.md) |            |       |
-| ![[semesterCalendarS2#19]] | [Week 19](_topics/Week19.md)                             |            |       |
-| ![[semesterCalendarS2#20]] | [Week 20](_topics/Week20.md)                                                   |            |       |
+# Semester Plan
+## Term 3
+
+### Week 1
+![[semesterCalendarS2#School Events - Week 1]] 
+#### Video
+
+![https://youtu.be/BNpE9kGOL3o](https://youtu.be/BNpE9kGOL3o)
+
+![https://youtu.be/E22avFJkxR4](https://youtu.be/E22avFJkxR4)
+#### Class Tasks
+- [ ] [Clone Holocron](/_sharedContent/CloneHolocron.md)
+
+#### Theory
+- [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
+- [ ] [Flask Vs Django](/WebDev/2-Digital-Applications/_topics/FlaskVsDjango.md)
+
+#### Practical
+- [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment.md)
+- [ ] OPTIONAL - [Configure VS Code and Docker](/WebDev/_shared/Projects/ANH/configureVSCodeAndDocker.md)
+- [ ] [Run The Project](/WebDev/_shared/Projects/ANH/runProject.md)
+- [ ] [Site Debugging](/WebDev/_shared/Projects/ANH/siteDebugging.md)
+
+#### Submission
+Submit the assigned Google Doc with the following information:
+- [ ] Explain what exactly Django offers over Flask (features, functionality etc).
+- [ ] Considering the plan for this project, which would be a better option - Flask or Django. Why? Or does it make no difference?
+- [ ] Screenshots of the database showing a registered user.
+
+### Week 2
+![[semesterCalendarS2#School Events - Week 2]] 
+
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek02.md)
+#### Practical
+- [ ] [Todo List](/WebDev/_shared/Projects/ANH/todoList.md)
+
+
+### Week 3 - Assessment Week
+ ![[semesterCalendarS2#School Events - Week 3]]
+**Assessment Week**  
+You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
+Worth 25%.  
+The task will be posted to Google Classroom, as per normal.
+#### Class Tasks
+ - [ ] Submit Assessment 1
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek03.md)
+
+
+
+
+### Week 4
+ ![[semesterCalendarS2#School Events - Week 4]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek04.md)
+#### Practical
+N/A
+
+### Week 5
+ ![[semesterCalendarS2#School Events - Week 5]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek05.md)
+#### Practical
+N/A
+### Week 6
+ ![[semesterCalendarS2#School Events - Week 6]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek06.md)
+#### Practical
+N/A
+### Week 7
+ ![[semesterCalendarS2#School Events - Week 7]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
+#### Practical
+N/A
+### Week 8
+ ![[semesterCalendarS2#School Events - Week 8]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek08.md)
+#### Practical
+N/A
+### Week 9
+ ![[semesterCalendarS2#School Events - Week 9]]
+#### Class Tasks
+N/A
+##### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
+#### Practical
+N/A
+
+### Week 10
+ ![[semesterCalendarS2#School Events - Week 10]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
+#### Practical
+N/A
+
+## Term 4
+### Week 11
+ ![[semesterCalendarS2#School Events - Week 11]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek11.md)
+#### Practical
+N/A
+
+
+### Week 12 - Assessment Due
+ ![[semesterCalendarS2#School Events - Week 12]]
+**Assessment Due**  
+The task will be due Friday 11:59pm.  
+Worth 50%.  
+The task will be posted to Google Classroom, as per normal.
+#### Class Tasks
+ - [ ] Submit Assessment 2
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
+#### Practical
+N/A
+
+
+### Week 13
+ ![[semesterCalendarS2#School Events - Week 13]]
+
+#### Class Tasks
+ - [ ] Vet Competencies
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
+#### Practical
+N/A
+### Week 14
+ ![[semesterCalendarS2#School Events - Week 14]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek14.md)
+#### Practical
+N/A
+### Week 15
+ ![[semesterCalendarS2#School Events - Week 15]]
+**Assessment Week**  
+This assessment task is a **live** interview.  This will be done via Google Meet.
+
+You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.  
+Your interview and any documentation you bring to the interview will be assessed.  
+You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
+Worth 25%.  
+The task will be posted to Google Classroom, as per normal.
+#### Class Tasks
+ - [ ] Prepare for Interview
+ - [ ] Assessment 3 - Interview Week
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek15.md)
+#### Practical
+N/A
+### Week 16
+ ![[semesterCalendarS2#School Events - Week 16]]
+#### Class Tasks
+N/A
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek16.md)
+#### Practical
+N/A
 
 # Subject Information
 
 | Unit Outline     | Assessments         |
 | ---------------- | ------------------- |
 | Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 25 % |
-|                  | Assessment 3 - 50 % |
+|                  | Assessment 2 - 50 % |
+|                  | Assessment 3 - 25 % |
 
 
-# Introduction
-Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS
-
-Our goal? To build a personal website using Flask, HTML, and CSS.    
-
-## The Tech Stack
-
-### 1. Flask
-
-- **What Is It?** Flask is a Python web framework. It’s lightweight, flexible, and perfect for small to medium-sized projects.
-- **Why Use It?** Flask simplifies routing, handling requests, and managing templates. Plus, it integrates seamlessly with Python.
-
-### 2. HTML (Hypertext Markup Language)
-
-- **What Is It?** HTML is the language of the web. It structures content, defines headings, paragraphs, links, and more.
-- **Why Use It?** Without HTML, there would be no web pages. It’s the foundation of everything we see online.
-
-### 3. CSS (Cascading Style Sheets)
-
-- **What Is It?** CSS adds style and visual appeal to our HTML. It controls fonts, colors, layouts, and animations.
-- **Why Use It?** CSS turns plain text into beautiful, well-designed web pages. It’s the artist’s palette for our website.
-
-## Features We’ll Build
-
-1. Resume Builder
-    
-    - Users can input their resume details (education, work experience, skills).
-    - Flask handles form submissions, and the data is stored securely.
-    - The resume dynamically appears on the website.
-2. Shopping Cart
-    
-    - Whether you’re selling products or just simulating e-commerce, the shopping cart feature is essential.
-    - Users can add items, view their cart, and calculate totals.
-3. To-Do List
-    
-    - Stay organized with an interactive to-do list.
-    - Add tasks, mark them as completed, and edit as needed.
-    - Data persists even if the browser is closed.
-4. Navigation
-    
-    - A sleek menu guides users to different sections of the website.
-    - From the homepage to the resume builder, everything is accessible.
+![[commonBlocks#Contact Details]]
 
 
-Remember, mistakes are part of the process. Embrace them, learn from them, and enjoy the journey. Happy coding! 
+
+> [!info]- Technical Overview
+> Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS
+> Our goal? To build a personal website using Flask, HTML, and CSS.    
+> ## The Tech Stack
+> ### 1. Flask
+> - **What Is It?** Flask is a Python web framework. It’s lightweight, flexible, and perfect for small to medium-sized projects.
+> - **Why Use It?** Flask simplifies routing, handling requests, and managing templates. Plus, it integrates seamlessly with Python.
+> ### 2. HTML (Hypertext Markup Language)
+> - **What Is It?** HTML is the language of the web. It structures content, defines headings, paragraphs, links, and more
+> - **Why Use It?** Without HTML, there would be no web pages. It’s the foundation of everything we see online.
+> ### 3. CSS (Cascading Style Sheets)
+> - **What Is It?** CSS adds style and visual appeal to our HTML. It controls fonts, colors, layouts, and animations.
+> - **Why Use It?** CSS turns plain text into beautiful, well-designed web pages. It’s the artist’s palette for our website.
+>## Features We’ll Build
+> 1. Resume Builder
+> 	1. Users can input their resume details (education, work experience, skills).
+> 	2. Flask handles form submissions, and the data is stored securely.
+> 	3. The resume dynamically appears on the website.
+> 2. Shopping Cart
+> 	1. Whether you’re selling products or just simulating e-commerce, the shopping cart feature is essential.
+> 	2. Users can add items, view their cart, and calculate totals.
+> 3. To-Do List
+> 	1. Stay organized with an interactive to-do list.
+> 	2. Add tasks, mark them as completed, and edit as needed.
+> 	3. Data persists even if the browser is closed.
+> 4. Navigation
+> 	1. A sleek menu guides users to different sections of the website.
+> 	2. From the homepage to the resume builder, everything is accessible.
+>
+> Remember, mistakes are part of the process. Embrace them, learn from them, and enjoy the journey. Happy coding! 
 
 
